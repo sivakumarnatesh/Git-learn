@@ -4,6 +4,7 @@ Welcome to sk kitchen
 2.pasta
 
 3.chicken Fry
-
+4.Beans
+5.pizza
 
 Thank you:)
